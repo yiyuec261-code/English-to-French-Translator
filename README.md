@@ -83,5 +83,6 @@ README.md
 
 ## Author
 
-CHENYIYUE 
-UPM Computer Science Student
+CHENYIYUE
+Bachelor of Computer Science
+Universiti Putra Malaysia (UPM)
